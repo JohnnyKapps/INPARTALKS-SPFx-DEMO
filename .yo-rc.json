@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "handson",
+    "libraryId": "1f84daf9-2a74-4eeb-bda0-1ece56f949bc",
+    "environment": "onprem"
+  }
+}

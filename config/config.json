@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/searchTool/SearchToolWebPart.js",
+      "manifest": "./src/webparts/searchTool/SearchToolWebPart.manifest.json",
+      "outputPath": "./dist/search-tool-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SearchToolWebPartStrings": "webparts/searchTool/loc/{locale}.js"
+  }
+}

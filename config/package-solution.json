@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "handson-client-side-solution",
+    "id": "1f84daf9-2a74-4eeb-bda0-1ece56f949bc",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/handson.sppkg"
+  }
+}
